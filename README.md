@@ -12,7 +12,7 @@ host dir  : c:/www/<br>
  using "create table.txt" in /www/database/ folder<br>
  
 <h4>add photos</h4> 
- add given [ or hacked :P ] photos in /www/dp/boys/ or /www/dp/girls/ as per gender<br>
+ add given photos in /www/dp/boys/ or /www/dp/girls/ as per gender<br>
  
  <h4>populate databse</h4>
  using "populate_db.php" in /www/database/ folder<br>
