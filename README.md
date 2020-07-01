@@ -19,4 +19,4 @@ host dir  : c:/www/<br>
 
 <b>NOTE</b> : make changes in the php file for boys and girls group<br>
 
-Enjoy your own facemash and watch your college/school burn<br>  
+Enjoy your own facemash website
